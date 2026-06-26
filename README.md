@@ -3,7 +3,7 @@ Cell painting style analysis of mitochondrial features using image segmentation.
 [This repository](https://github.com/gerencserlab/IA-Mito-Morphomics/) contains custom image analysis pipelines for Image Analyst MKII, used in the following publication: currently under embargo    
 
 ## List of pipelines
-* [BLAH](blah.md)
+
 
 ## How to use
 To open and edit *.ips (XML) Image Processing Pipeline files download [Image Analyst MKII for Windows](https://www.imageanalyst.net/downloads/?item=recent/imageanalystMKII64.msi).
