@@ -1,6 +1,6 @@
-# Title
-Description.  
-[This repository](https://github.com/gerencserlab/IATemplate/) contains custom image analysis pipelines for Image Analyst MKII, used in the following publication: currently under embargo    
+# Mitochondrial Morphomics Pipelines for Image Analyst MKII
+Cell painting style analysis of mitochondrial features using image segmentation.  
+[This repository](https://github.com/gerencserlab/IA-Mito-Morphomics/) contains custom image analysis pipelines for Image Analyst MKII, used in the following publication: currently under embargo    
 
 ## List of pipelines
 * [BLAH](blah.md)
